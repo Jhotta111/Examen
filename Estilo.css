@@ -1,0 +1,32 @@
+nav.em1 {background-color: dimgrey;color: rgb(255, 251, 0);
+text-align: center;}
+
+
+}
+
+a.em {color: rgb(255, 251, 0);}
+
+header {background-color: rgb(218, 217, 163);}
+img.cer {float: left;}
+img.do {float: right;}
+img.un {
+    display:block;
+    margin:auto;
+    }
+
+    header {text-align: center;}
+
+    p.tien {color: rgb(145, 136, 207);}
+
+    body {
+    margin: 50px;}
+
+
+    footer {background-color: rgb(218, 217, 163);}
+
+    main,map {background-color: rgb(153, 177, 177);
+    text-align: left;}
+
+
+    body.in {text-align: center;
+    width: 100%;}
